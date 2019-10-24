@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 13.75, 8.5" name="DbFirst">
+  <DataContextMoniker Name="/DbFirstDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5a9c27e6-979c-45ee-aa9e-9b019f096a14" absoluteBounds="8.75, 1.625, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/DbFirstDataContext/tblFirma" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f2c96bc-0d0f-4970-8606-88e05ade67a4" absoluteBounds="8.765, 2.085, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4682d1a6-dd96-4f2f-85be-1e0cdd7f0cb6" absoluteBounds="3.5, 3, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/DbFirstDataContext/tblUrunler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a171430-5728-4869-bd59-504068848abd" absoluteBounds="3.515, 3.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74012541-0c4e-4eae-859d-18ce456014e7" absoluteBounds="0.75, 4, 2, 1.1939925130208331">
+      <DataClassMoniker Name="/DbFirstDataContext/tblKategoriler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c94c5b0-4b56-4508-bfb2-1f3bd4ad6bdc" absoluteBounds="0.765, 4.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8ae4b23b-bd81-46d0-82ae-62695045bc10" absoluteBounds="0.75, 2, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DbFirstDataContext/tblMarkalar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a0528d8-6755-48f1-a92f-794f474e6f9a" absoluteBounds="0.765, 2.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c6fc2f12-4c57-474a-b757-c03055c2b295" absoluteBounds="6.25, 1.125, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/DbFirstDataContext/tblSiparisAlt" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f092ee4c-362e-40cc-b1a2-7a18821b7632" absoluteBounds="6.265, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="72d1f4ab-5430-47a7-9c3d-3ca56b47a5b8" absoluteBounds="11.5, 1, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DbFirstDataContext/tblSiparisUst" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7e7dfdb0-f6bc-44d1-a881-fa3285a27f16" absoluteBounds="11.515, 1.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5849eaa4-cebf-4e5d-a225-f3a2b2ed530c" absoluteBounds="6.25, 3.625, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DbFirstDataContext/tblStokDurum" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c7fa50cc-343d-4f81-bb4f-b3a88cdade7b" absoluteBounds="6.265, 4.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="81af19fb-6b9a-4c6d-adc5-6c4d55804b11" absoluteBounds="6.25, 6.25, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DbFirstDataContext/tblStokGirisAlt" />
+      <nestedChildShapes>
+        <elementListCompartment Id="11aa37da-f6c5-4c4b-937d-dd0d30fc2981" absoluteBounds="6.265, 6.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1d1fc925-b28d-410d-a455-a56bc531606e" absoluteBounds="11.5, 3.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DbFirstDataContext/tblStokGirisUst" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7b3d0dba-dfb5-472e-9053-d60567990274" absoluteBounds="11.515, 3.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 4.59699625651042); (2.91666666666667 : 4.59699625651042 : JumpStart); (3.08333333333333 : 4.59699625651042 : JumpEnd); (3.5 : 4.59699625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DbFirstDataContext/tblKategoriler/tblKategoriler_tblUrunler" />
+      <nodes>
+        <classShapeMoniker Id="74012541-0c4e-4eae-859d-18ce456014e7" />
+        <classShapeMoniker Id="4682d1a6-dd96-4f2f-85be-1e0cdd7f0cb6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 3.19399251302083); (1.75 : 3.75); (3 : 3.75); (3 : 4.76365347135417); (3.5 : 4.76365347135417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DbFirstDataContext/tblMarkalar/tblMarkalar_tblUrunler" />
+      <nodes>
+        <classShapeMoniker Id="8ae4b23b-bd81-46d0-82ae-62695045bc10" />
+        <classShapeMoniker Id="4682d1a6-dd96-4f2f-85be-1e0cdd7f0cb6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3); (5.875 : 2.625); (5.875 : 3.27089680989583); (6.25 : 2.89589680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DbFirstDataContext/tblUrunler/tblUrunler_tblSiparisAlt" />
+      <nodes>
+        <classShapeMoniker Id="4682d1a6-dd96-4f2f-85be-1e0cdd7f0cb6" />
+        <classShapeMoniker Id="c6fc2f12-4c57-474a-b757-c03055c2b295" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.75 : 2.19794840494792); (11.5 : 2.19794840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DbFirstDataContext/tblFirma/tblFirma_tblSiparisUst" />
+      <nodes>
+        <classShapeMoniker Id="5a9c27e6-979c-45ee-aa9e-9b019f096a14" />
+        <classShapeMoniker Id="72d1f4ab-5430-47a7-9c3d-3ca56b47a5b8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.51044840494792); (6.25 : 4.51044840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DbFirstDataContext/tblUrunler/tblUrunler_tblStokDurum" />
+      <nodes>
+        <classShapeMoniker Id="4682d1a6-dd96-4f2f-85be-1e0cdd7f0cb6" />
+        <classShapeMoniker Id="5849eaa4-cebf-4e5d-a225-f3a2b2ed530c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 6.1170068359375); (4.5 : 7.13544840494792); (6.25 : 7.13544840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DbFirstDataContext/tblUrunler/tblUrunler_tblStokGirisAlt" />
+      <nodes>
+        <classShapeMoniker Id="4682d1a6-dd96-4f2f-85be-1e0cdd7f0cb6" />
+        <classShapeMoniker Id="81af19fb-6b9a-4c6d-adc5-6c4d55804b11" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.75 : 4.12100341796875); (11.5 : 4.12100341796875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DbFirstDataContext/tblFirma/tblFirma_tblStokGirisUst" />
+      <nodes>
+        <classShapeMoniker Id="5a9c27e6-979c-45ee-aa9e-9b019f096a14" />
+        <classShapeMoniker Id="1d1fc925-b28d-410d-a455-a56bc531606e" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="c71d4697-b38d-430e-af67-75e17c9d3eb3" isExpanded="false" absoluteBounds="2.875, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/DbFirstDataContext/vwStokGiri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="79fe0c0b-5a49-47f2-a983-45f27890fbed" absoluteBounds="2.89, 0.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
